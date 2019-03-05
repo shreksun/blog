@@ -81,4 +81,3 @@ deploy:
   type: git
   repo: git@github.com:shreksun/shreksun.github.io.git
   branch: master
-  
