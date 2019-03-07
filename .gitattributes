@@ -1,2 +1,2 @@
-*.css linguist-language=HTML
+*.styl linguist-language=HTML
 *.h linguist-language=HTML
